@@ -77,7 +77,7 @@ local Library = {
 			Tertiary = Color3.fromRGB(235, 235, 235),
 
 		Secondary = Color3.fromRGB(15, 15, 15), 
-			WeakText = Color3.fromRGB(255, 255, 255)
+			WeakText = Color3.fromRGB(180, 0, 0),
 		},
 		Vaporwave = {},
 		OperaGX = {},
